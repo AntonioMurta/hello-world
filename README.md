@@ -1,2 +1,3 @@
 # hello-world
-Tutorial for GitHub
+Tutorial for GitHub:
+Important for learning GitHub essentials
